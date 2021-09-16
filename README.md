@@ -13,6 +13,7 @@ Tecnologias utilizada no projeto:
 - yarn add styled-components
 - yarn add react-switch
 - yarn add polished
+- yarn add @types/styled-components -D 
 ```
 
 ## 🔍 Layout
