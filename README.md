@@ -18,7 +18,7 @@ Tecnologias utilizada no projeto:
 
 ## 🔍 Layout
 
-Você pode visualizar a funcionalidade do projeto através do [link](https://vinidarkmode.netlify.app/).
+Você pode visualizar a funcionalidade do projeto através do [link](https://darkmodets.netlify.app/).
 
 ### 🚀 Como executar
 ```
