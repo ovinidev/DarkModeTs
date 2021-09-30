@@ -15,7 +15,7 @@ export const Header: React.FC<Props> = ({ toggleTheme }) => {
   return (
     <Container>
       <h1> Dark Mode </h1>
-      <Switch 
+      <Switch
         onChange={toggleTheme}
         checked={title === 'dark'}
         checkedIcon={false}
